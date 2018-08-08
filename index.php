@@ -8,8 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-<h1>I make changes being at origin/master</h1>
-<h2>Changes from local</h2>
-<h3>changes from local 22:31</h3>
+1. I make changes being at origin/master</h1>
+2. Changes from local</h2>
+3. Changes from local 22:31</h3>
+4. After reset --hard. From `master`.
 </body>
 </html>
