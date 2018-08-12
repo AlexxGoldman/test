@@ -8,9 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-1. I make changes being at origin/master</h1>
-2. Changes from local</h2>
-3. Changes from local 22:31</h3>
-4. After reset --hard. From `master`.
+1. I make changes being at origin/master</h1><br>
+2. Changes from local</h2><br>
+3. Changes from local 22:31</h3><br>
+4. After reset --hard. From `master`<br>
+5. Changes made directly in GitHub 12-aug-2018  10:26<br>
 </body>
 </html>
