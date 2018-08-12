@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/index.php$ /index2.php [R=301, L]
